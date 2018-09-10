@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/home/lanre/tools/jackson-2.9.6/jackson-annotations-2.9.6.jar"/>
+	<classpathentry kind="lib" path="/home/lanre/tools/jackson-2.9.6/jackson-core-2.9.6.jar"/>
+	<classpathentry kind="lib" path="/home/lanre/tools/jackson-2.9.6/jackson-databind-2.9.6.jar"/>
+	<classpathentry kind="lib" path="/home/lanre/WSUPandRUNNING_rest/jwsur2Ch3/ch3/xstream/xstream-1.4.4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
